@@ -1,5 +1,5 @@
 # 40 Days of Javascript by TapaScript
-## Day 04 - Loops and iterations
+## Day 05 - Loops and iterations
 
 ### Key Learning Points
 - for loop
